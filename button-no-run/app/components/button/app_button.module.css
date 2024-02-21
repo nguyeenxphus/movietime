@@ -1,0 +1,8 @@
+.appButton {
+    margin: 20px;
+    font-weight: bold;
+    border: solid 2px #565751;
+    border-radius: 8px;
+    text-align: center;
+    cursor: pointer;
+}
