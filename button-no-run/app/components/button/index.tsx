@@ -25,7 +25,7 @@ export default function AppButton({
   canMove = false,
   onMouseEnter,
   textSize = 20,
-  height = 80,
+  height,
   width = 200,
   position,
   top,

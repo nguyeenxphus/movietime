@@ -66,7 +66,7 @@ export default function Main() {
   };
 
   return (
-    <div className="relative flex flex-col p-32 w-full max-h-screen items-center justify-center">
+    <div className="relative flex flex-col p-20 w-full max-h-screen items-center justify-center">
       <Image
         src={agree ? "/assets/letsgo.gif" : "/assets/dao.jpg"}
         alt="picture of the movie"
